@@ -469,7 +469,7 @@ This project uses the Apache 2.0 License. See backend/server.js for license head
 ## 👤 Author
 
 **Sam** - Associate Director of Data Analytics @ CMI Media Group
-- YouTube: [DataScienceWithSam](https://youtube.com/@datasciencewithsam)
+- YouTube: [DataScienceWithSam](https://www.youtube.com/@datasciencewithsam9090)
 - LinkedIn: [Connect with Sam](https://www.linkedin.com/in/soumava-dey-441294ab/)
 ---
 

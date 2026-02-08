@@ -470,9 +470,7 @@ This project uses the Apache 2.0 License. See backend/server.js for license head
 
 **Sam** - Associate Director of Data Analytics @ CMI Media Group
 - YouTube: [DataScienceWithSam](https://youtube.com/@datasciencewithsam)
-- Podcast: [Inside AssembleAI](https://assembleai.com/podcast)
-- LinkedIn: [Connect with Sam](https://linkedin.com/in/your-profile)
-
+- LinkedIn: [Connect with Sam](https://www.linkedin.com/in/soumava-dey-441294ab/)
 ---
 
 ## 🎉 Acknowledgments
